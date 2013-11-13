@@ -1,0 +1,15 @@
+{
+  "name"    : "The Go Programming Language",
+  "version" : "0.1",
+  "styling" : {
+    "textColor" : "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "/images/teamwork/golang/logo.png"
+  },
+  "content": {
+    "type": "zip",
+    "url" : "https://www.dropbox.com/s/18wlgt10wdirudx/GoLang.zip"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name"    : "",
+  "version" : "0.1",
+  "styling" : {
+    "textColor" : "#FFF",
+    "textShadowColor": "none",
+    "borderColor": "#3B5998",
+    "bgColor": "#3B5998",
+    "bgImage": "/images/teamwork/environments/facebook-text.png"
+  },
+  "content": {
+    "type": "zip",
+    "url" : "https://teamworkcontent.s3.amazonaws.com/Facebook.zip"
+  },
+  "examples": [
+    {
+      "title": "embedded-posts",
+      "description": "Embed posts from Facebook to your site."
+    },
+    {
+      "title": "like-box",
+      "description": "Embed a Facebook Like box into your site."
+    },
+    {
+      "title": "like-button",
+      "description": "Embed a Facebook Like button into your site."
+    },
+    {
+      "title": "open-graph",
+      "description": "Getting started with Facebook Open Graph."
+    },
+    {
+      "title": "share",
+      "description": "Embed a Share Dialog into your site."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Facebook",
+    "manifest": "https://raw.github.com/koding/Teamwork/Playgrounds/master/Facebook.json",
+  },
+  {
+    "name": "GoLang",
+    "manifest": "https://raw.github.com/koding/Teamwork/Playgrounds/master/GoLang.json",
+  }
+]
