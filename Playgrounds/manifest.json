@@ -1,10 +1,10 @@
 [
   {
-    "title": "Facebook",
+    "name": "Facebook",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/Playgrounds/master/Facebook.json"
   },
   {
-    "title": "GoLang",
+    "name": "GoLang",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/Playgrounds/master/GoLang.json"
   }
 ]
