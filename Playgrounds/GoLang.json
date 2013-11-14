@@ -14,6 +14,6 @@
   },
   "run": {
     "handler": "terminal",
-    "command": "go run $CURRENT_FILE_PATH/$CURRENT_FILE_NAME"
+    "command": "go run $ACTIVE_FILE_PATH"
   }
 }
