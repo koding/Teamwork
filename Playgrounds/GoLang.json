@@ -9,7 +9,11 @@
     "bgImage": "/images/teamwork/golang/logo.png"
   },
   "content": {
-    "type": "zip",
-    "url" : "https://www.dropbox.com/s/18wlgt10wdirudx/GoLang.zip"
+    "type" : "zip",
+    "url"  : "https://www.dropbox.com/s/18wlgt10wdirudx/GoLang.zip"
+  },
+  "run": {
+    "handler": "terminal",
+    "command": "go run $CURRENT_FILE_PATH/$CURRENT_FILE_NAME"
   }
 }
