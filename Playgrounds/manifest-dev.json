@@ -5,6 +5,10 @@
   },
   {
     "name": "GoLang",
-    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/GoLang.json"
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/GoLang.json",
+    "run": {
+      "handler": "terminal"
+      "command": "go run $CURRENT_FILE_NAME"
+    }
   }
 ]
