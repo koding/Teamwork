@@ -40,5 +40,11 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Wordpress.json",
     "description": "Wordpress",
     "icon": "https://s3.koding.amazon.com/wp.jpg"
+  },
+  {
+    "name": "Backbone",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Backbone.json",
+    "description": "Backbone",
+    "icon": "https://s3.koding.amazon.com/backbone.jpg"
   }
 ]
