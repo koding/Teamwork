@@ -10,7 +10,7 @@
   },
   "content": {
     "type" : "zip",
-    "url"  : "http://"
+    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/CodeIgnitor.zip"
   },
   "run": {
     "handler": "preview",
