@@ -1,0 +1,19 @@
+{
+  "name"    : "CodeIgniter",
+  "version" : "2.1.4",
+  "styling" : {
+    "textColor" : "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/codeignitor.png"
+  },
+  "content": {
+    "type" : "zip",
+    "url"  : "http://"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/CodeIgniter"
+  }
+}
