@@ -34,5 +34,11 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/EmberJS.json",
     "description": "EmberJS",
     "icon": "https://s3.koding.amazon.com/ember.jpg"
+  },
+  {
+    "name": "Wordpress",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Wordpress.json",
+    "description": "Wordpress",
+    "icon": "https://s3.koding.amazon.com/wp.jpg"
   }
 ]
