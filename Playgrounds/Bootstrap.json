@@ -14,6 +14,6 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/bootstrap"
+    "command": "https://$USERNAME.kd.io/bootstrap"
   }
 }
