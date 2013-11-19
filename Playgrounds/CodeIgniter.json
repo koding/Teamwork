@@ -6,11 +6,11 @@
     "textShadowColor": "none",
     "borderColor": "#E0EBF5",
     "bgColor": "#E0EBF5",
-    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/codeignitor.png"
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/codeigniter.png"
   },
   "content": {
     "type" : "zip",
-    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/CodeIgnitor.zip"
+    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/CodeIgniter.zip"
   },
   "run": {
     "handler": "preview",
