@@ -15,5 +15,13 @@
   "run": {
     "handler": "preview",
     "command": "http://$USERNAME.kd.io/CodeIgniter"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/CodeIgniter"
+    },
+    "editor": {
+      "files": ["./index.php"]
+    }
   }
 }
