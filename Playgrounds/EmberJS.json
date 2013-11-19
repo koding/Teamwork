@@ -1,0 +1,19 @@
+{
+  "name"    : "EmberJS",
+  "version" : "1.1.2",
+  "styling" : {
+    "textColor" : "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/emberjs.png"
+  },
+  "content": {
+    "type" : "zip",
+    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/EmberJS.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/EmberJS"
+  }
+}
