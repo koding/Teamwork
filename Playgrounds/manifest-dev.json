@@ -16,5 +16,11 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Bootstrap.json",
     "description": "Bootstrap",
     "icon": "https://s3.koding.amazon.com/bootstrap.jpg"
+  },
+  {
+    "name": "CodeIgniter",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/CodeIgniter.json",
+    "description": "CodeIgniter",
+    "icon": "https://s3.koding.amazon.com/CodeIgniter.jpg"
   }
 ]
