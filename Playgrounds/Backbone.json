@@ -1,0 +1,19 @@
+{
+  "name"    : "Backbone",
+  "version" : "1.1.0",
+  "styling" : {
+    "textColor" : "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/backbone.png"
+  },
+  "content": {
+    "type" : "zip",
+    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/Backbone.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/Backbone"
+  }
+}
