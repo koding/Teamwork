@@ -15,5 +15,13 @@
   "run": {
     "handler": "preview",
     "command": "https://$USERNAME.kd.io/Bootstrap"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/Bootstrap"
+    },
+    "editor": {
+      "files": ["./index.html"]
+    }
   }
 }
