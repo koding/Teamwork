@@ -1,0 +1,23 @@
+{
+  "name": "Wordpress",
+  "version": "3.7.1",
+  "styling": {
+    "textColor": "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "/images/teamwork/golang/logo.png"
+  },
+  "content": {
+    "type": "zip",
+    "url": "https://teamworkcontent.s3.amazonaws.com/zipfiles/Wordpress.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/wordpress"
+  },
+  "preRequisite": {
+    "type": "sh"
+    "command": "mysql -u root -e \"create database wordpress;\""
+  }
+}
