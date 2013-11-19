@@ -10,7 +10,7 @@
   },
   "content": {
     "type": "zip",
-    "url": "https://teamworkcontent.s3.amazonaws.com/zipfiles/bootstrap.zip"
+    "url": "https://teamworkcontent.s3.amazonaws.com/zipfiles/Bootstrap.zip"
   },
   "run": {
     "handler": "preview",
