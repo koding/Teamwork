@@ -2,5 +2,11 @@
   {
     "name": "Facebook",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Facebook.json"
+  },
+  {
+    "name": "GoLang",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/GoLang.json",
+    "description": "GoLang Playground",
+    "icon": "https://s3.koding.amazon.com/go.jpg"
   }
 ]
