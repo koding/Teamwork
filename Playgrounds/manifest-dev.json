@@ -22,5 +22,17 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/CodeIgniter.json",
     "description": "CodeIgniter",
     "icon": "https://s3.koding.amazon.com/CodeIgniter.jpg"
+  },
+  {
+    "name": "AngularJS",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/AngularJS.json",
+    "description": "Angular JS",
+    "icon": "https://s3.koding.amazon.com/angular.jpg"
+  },
+  {
+    "name": "CodeIgniter",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/CodeIgniter.json",
+    "description": "EmberJS",
+    "icon": "https://s3.koding.amazon.com/ember.jpg"
   }
 ]
