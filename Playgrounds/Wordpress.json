@@ -14,7 +14,7 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/wordpress"
+    "command": "http://$USERNAME.kd.io/Teamwork/Wordpress"
   },
   "prerequisite": {
     "type": "sh",
