@@ -17,7 +17,7 @@
     "command": "http://$USERNAME.kd.io/wordpress"
   },
   "preRequisite": {
-    "type": "sh"
+    "type": "sh",
     "command": "mysql -u root -e \"create database wordpress;\""
   }
 }
