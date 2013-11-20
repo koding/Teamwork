@@ -4,9 +4,9 @@
   "styling" : {
     "textColor" : "#222",
     "textShadowColor": "none",
-    "borderColor": "#E0EBF5",
-    "bgColor": "#E0EBF5",
-    "bgImage": "/images/teamwork/golang/logo.png"
+    "borderColor": "#3a4349",
+    "bgColor": "#3a4349",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/icons/togetherjs.png"
   },
   "content": {
     "type" : "zip",

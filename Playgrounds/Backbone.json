@@ -4,9 +4,9 @@
   "styling" : {
     "textColor" : "#222",
     "textShadowColor": "none",
-    "borderColor": "#E0EBF5",
-    "bgColor": "#E0EBF5",
-    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/backbone.png"
+    "borderColor": "#573b7f",
+    "bgColor": "#573b7f",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/icons/backbone.png"
   },
   "content": {
     "type" : "zip",
