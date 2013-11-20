@@ -1,0 +1,19 @@
+{
+  "name"    : "TogethrJS",
+  "version" : "1.0",
+  "styling" : {
+    "textColor" : "#222",
+    "textShadowColor": "none",
+    "borderColor": "#E0EBF5",
+    "bgColor": "#E0EBF5",
+    "bgImage": "/images/teamwork/golang/logo.png"
+  },
+  "content": {
+    "type" : "zip",
+    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/TogetherJS.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/TogetherJS"
+  }
+}
