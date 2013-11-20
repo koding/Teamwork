@@ -2,7 +2,7 @@
   "name"    : "CodeIgniter",
   "version" : "2.1.4",
   "styling" : {
-    "textColor" : "#222",
+    "textColor" : "#FFF",
     "textShadowColor": "none",
     "borderColor": "#ff5926",
     "bgColor": "#ff5926",

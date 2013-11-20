@@ -2,7 +2,7 @@
   "name"    : "Backbone",
   "version" : "1.1.0",
   "styling" : {
-    "textColor" : "#222",
+    "textColor" : "#002A41",
     "textShadowColor": "none",
     "borderColor": "#cee5f3",
     "bgColor": "#cee5f3",

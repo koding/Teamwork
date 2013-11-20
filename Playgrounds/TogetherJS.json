@@ -2,7 +2,7 @@
   "name"    : "TogetherJS",
   "version" : "1.0",
   "styling" : {
-    "textColor" : "#222",
+    "textColor" : "#4E9BC1",
     "textShadowColor": "none",
     "borderColor": "#3a4349",
     "bgColor": "#3a4349",

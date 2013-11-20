@@ -2,7 +2,7 @@
   "name": "AngularJS",
   "version": "1.2.0",
   "styling": {
-    "textColor": "#222",
+    "textColor": "#FFF",
     "textShadowColor": "none",
     "borderColor": "#e52a3a",
     "bgColor": "#e52a3a",

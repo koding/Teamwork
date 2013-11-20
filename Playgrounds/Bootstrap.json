@@ -2,7 +2,7 @@
   "name": "Bootstrap",
   "version": "3.0.0",
   "styling": {
-    "textColor": "#222",
+    "textColor": "#FFF",
     "textShadowColor": "none",
     "borderColor": "#573b7f",
     "bgColor": "#573b7f",
