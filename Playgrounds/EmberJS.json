@@ -2,11 +2,7 @@
   "name"    : "",
   "version" : "1.1.2",
   "styling" : {
-    "textColor" : "#222",
-    "textShadowColor": "none",
-    "borderColor": "#e14932",
-    "bgColor": "#e14932",
-    "bgImage": "https://teamworkcontent.s3.amazonaws.com/icons/ember.png"
+    "custom": "background: url(https://teamworkcontent.s3.amazonaws.com/icons/ember.png) no-repeat #e14932; border-color: #e14932;"
   },
   "content": {
     "type" : "zip",
