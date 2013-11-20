@@ -16,7 +16,7 @@
     "handler": "preview",
     "command": "http://$USERNAME.kd.io/wordpress"
   },
-  "preRequisite": {
+  "prerequisite": {
     "type": "sh",
     "command": "mysql -u root -e \"create database wordpress;\""
   }
