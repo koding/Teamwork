@@ -1,19 +1,27 @@
 {
-  "name"    : "AngularJS",
-  "version" : "1.2.0",
-  "styling" : {
-    "textColor" : "#222",
+  "name": "AngularJS",
+  "version": "1.2.0",
+  "styling": {
+    "textColor": "#222",
     "textShadowColor": "none",
     "borderColor": "#E0EBF5",
     "bgColor": "#E0EBF5",
     "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/angularjs.png"
   },
   "content": {
-    "type" : "zip",
-    "url"  : "https://teamworkcontent.s3.amazonaws.com/zipfiles/AngularJS.zip"
+    "type": "zip",
+    "url": "https://teamworkcontent.s3.amazonaws.com/zipfiles/AngularJS.zip"
   },
   "run": {
     "handler": "preview",
     "command": "https://$USERNAME.kd.io/AngularJS"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/AngularJS"
+    },
+    "editor": {
+      "files": [ "./index.html" ]
+    }
   }
 }
