@@ -3,48 +3,48 @@
     "name": "Facebook",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Facebook.json",
     "description": "Facebook Playground",
-    "icon": "https://s3.koding.amazon.com/fb.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/facebook.png"
   },
   {
     "name": "Bootstrap",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Bootstrap.json",
     "description": "Bootstrap",
-    "icon": "https://s3.koding.amazon.com/bootstrap.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/bootstrap.png"
   },
   {
     "name": "CodeIgniter",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/CodeIgniter.json",
     "description": "CodeIgniter",
-    "icon": "https://s3.koding.amazon.com/CodeIgniter.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/codeigniter.png"
   },
   {
     "name": "AngularJS",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/AngularJS.json",
     "description": "Angular JS",
-    "icon": "https://s3.koding.amazon.com/angular.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/angular.png"
   },
   {
     "name": "EmberJS",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/EmberJS.json",
     "description": "EmberJS",
-    "icon": "https://s3.koding.amazon.com/ember.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/ember.png"
   },
   {
     "name": "Wordpress",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Wordpress.json",
     "description": "Wordpress",
-    "icon": "https://s3.koding.amazon.com/wp.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/wordpress.png"
   },
   {
     "name": "Backbone",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Backbone.json",
     "description": "Backbone",
-    "icon": "https://s3.koding.amazon.com/backbone.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/backbone.png"
   },
   {
     "name": "TogetherJS",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/TogetherJS.json",
     "description": "TogetherJS",
-    "icon": "https://s3.koding.amazon.com/togetherJS.jpg"
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/togetherjs.png"
   }
 ]
