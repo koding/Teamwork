@@ -15,5 +15,13 @@
   "run": {
     "handler": "preview",
     "command": "http://$USERNAME.kd.io/TogetherJS"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/TogetherJS"
+    },
+    "editor": {
+      "files": [ "./index.html", "./main.js" ]
+    }
   }
 }
