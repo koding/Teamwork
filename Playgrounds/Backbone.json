@@ -15,5 +15,13 @@
   "run": {
     "handler": "preview",
     "command": "http://$USERNAME.kd.io/Backbone"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/Backbone"
+    },
+    "editor": {
+      "files": [ "./index.html" ]
+    }
   }
 }
