@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/EmberJS"
+    "command": "http://$USERNAME.kd.io/Teamwork/EmberJS"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/EmberJS"
+      "url": "https://$USERNAME.kd.io/Teamwork/EmberJS"
     },
     "editor": {
       "files": ["./index.html"]
