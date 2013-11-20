@@ -4,9 +4,9 @@
   "styling": {
     "textColor": "#222",
     "textShadowColor": "none",
-    "borderColor": "#E0EBF5",
-    "bgColor": "#E0EBF5",
-    "bgImage": "https://teamworkcontent.s3.amazonaws.com/img/bg_img/angularjs.png"
+    "borderColor": "#e52a3ae52a3a",
+    "bgColor": "#e52a3a",
+    "bgImage": "https://teamworkcontent.s3.amazonaws.com/icons/angularjs.png"
   },
   "content": {
     "type": "zip",
