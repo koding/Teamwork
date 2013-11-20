@@ -18,6 +18,6 @@
   },
   "prerequisite": {
     "type": "sh",
-    "command": "mysql -u root -e \"create database wordpress;\""
+    "command": "mysql -u root -e \"create database if not exists wordpress;\""
   }
 }
