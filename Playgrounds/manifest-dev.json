@@ -6,12 +6,6 @@
     "icon": "https://s3.koding.amazon.com/fb.jpg"
   },
   {
-    "name": "GoLang",
-    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/GoLang.json",
-    "description": "GoLang Playground",
-    "icon": "https://s3.koding.amazon.com/go.jpg"
-  },
-  {
     "name": "Bootstrap",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Bootstrap.json",
     "description": "Bootstrap",
