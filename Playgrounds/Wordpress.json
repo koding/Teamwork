@@ -19,5 +19,10 @@
   "prerequisite": {
     "type": "sh",
     "command": "mysql -u root -e \"create database if not exists wordpress;\""
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/Wordpress"
+    }
   }
 }
