@@ -1,6 +1,50 @@
 [
   {
     "name": "Facebook",
-    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Facebook.json"
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Facebook.json",
+    "description": "The Facebook SDK for JavaScript provides a rich set of client-side functionality, including Facebook Login, API access and social plugins.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/facebook.png"
+  },
+  {
+    "name": "Bootstrap",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Bootstrap.json",
+    "description": "Bootstrap is a sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/bootstrap.png"
+  },
+  {
+    "name": "CodeIgniter",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/CodeIgniter.json",
+    "description": "CodeIgniter is a proven, agile & open PHP web application framework with a small footprint. It is powering the next generation of web apps.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/codeigniter.png"
+  },
+  {
+    "name": "AngularJS",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/AngularJS.json",
+    "description": "AngularJS is a JavaScript framework that assists with running single-page applications. Its goal is to augment browser-based applications with model–view–controller (MVC) capability.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/angular.png"
+  },
+  {
+    "name": "EmberJS",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/EmberJS.json",
+    "description": "Ember.js is an open-source client-side JavaScript web application framework based on the model-view-controller (MVC) software architectural pattern.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/ember.png"
+  },
+  {
+    "name": "Wordpress",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Wordpress.json",
+    "description": "WordPress is a free and open source blogging tool and a content management system (CMS) based on PHP and MySQL.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/wordpress.png"
+  },
+  {
+    "name": "Backbone",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Backbone.json",
+    "description": "Backbone is a JavaScript library with a RESTful JSON interface and is based on the model–view–presenter (MVP) for developing single-page web applications.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/backbone.png"
+  },
+  {
+    "name": "TogetherJS",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/TogetherJS.json",
+    "description": "TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website.",
+    "icon": "https://teamworkcontent.s3.amazonaws.com/covers/togetherjs.png"
   }
 ]
