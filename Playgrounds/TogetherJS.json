@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/Teamwork/TogetherJS"
+    "command": "http://$USERNAME.kd.io/Teamwork/TogetherJS/index.html"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/TogetherJS"
+      "url": "https://$USERNAME.kd.io/Teamwork/TogetherJS/index.html"
     },
     "editor": {
       "files": [ "./index.html", "./main.js" ]

@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/Teamwork/CodeIgniter"
+    "command": "http://$USERNAME.kd.io/Teamwork/CodeIgniter/index.php"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/CodeIgniter"
+      "url": "https://$USERNAME.kd.io/Teamwork/CodeIgniter/index.php"
     },
     "editor": {
       "files": ["./index.php"]

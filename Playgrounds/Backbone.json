@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/Teamwork/Backbone"
+    "command": "http://$USERNAME.kd.io/Teamwork/Backbone/index.html"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/Backbone"
+      "url": "https://$USERNAME.kd.io/Teamwork/Backbone/index.html"
     },
     "editor": {
       "files": [ "./index.html" ]

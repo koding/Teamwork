@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "https://$USERNAME.kd.io/Teamwork/AngularJS"
+    "command": "https://$USERNAME.kd.io/Teamwork/AngularJS/index.html"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/AngularJS"
+      "url": "https://$USERNAME.kd.io/Teamwork/AngularJS/index.html"
     },
     "editor": {
       "files": [ "./index.html" ]

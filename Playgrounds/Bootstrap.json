@@ -14,11 +14,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "https://$USERNAME.kd.io/Teamwork/Bootstrap"
+    "command": "https://$USERNAME.kd.io/Teamwork/Bootstrap/index.html"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/Bootstrap"
+      "url": "https://$USERNAME.kd.io/Teamwork/Bootstrap/index.html"
     },
     "editor": {
       "files": ["./index.html"]

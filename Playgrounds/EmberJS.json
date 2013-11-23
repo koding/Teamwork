@@ -10,11 +10,11 @@
   },
   "run": {
     "handler": "preview",
-    "command": "http://$USERNAME.kd.io/Teamwork/EmberJS"
+    "command": "http://$USERNAME.kd.io/Teamwork/EmberJS/index.html"
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/EmberJS"
+      "url": "https://$USERNAME.kd.io/Teamwork/EmberJS/index.html"
     },
     "editor": {
       "files": ["./index.html"]

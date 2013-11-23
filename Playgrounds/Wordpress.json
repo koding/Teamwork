@@ -22,7 +22,7 @@
   },
   "initialState": {
     "preview": {
-      "url": "https://$USERNAME.kd.io/Teamwork/Wordpress"
+      "url": "https://$USERNAME.kd.io/Teamwork/Wordpress/index.php"
     }
   }
 }
