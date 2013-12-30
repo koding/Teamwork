@@ -20,7 +20,7 @@
   {
     "name": "AngularJS",
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/AngularJS.json",
-    "description": "AngularJS is a model-view-controller (MVC) based JavaScript framework that assists with running single-page applications.",
+    "description": "AngularJS is a JavaScript framework that assists with running single-page applications. Its goal is to augment browser-based applications with model–view–controller (MVC) capability.",
     "icon": "https://teamworkcontent.s3.amazonaws.com/covers/angular.png"
   },
   {
