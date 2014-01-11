@@ -1,0 +1,24 @@
+{
+  "name": "Parse",
+  "version": "1.2.16",
+  "styling": {
+    "textColor": "#FFF",
+    "textShadowColor": "none",
+    "borderColor": "#222",
+    "bgColor": "#222",
+    "bgImage": "http://s23.postimg.org/mlzb1o0vb/parse.jpg"
+  },
+  "content": {
+    "type": "zip",
+    "url": "https://parse.com/downloads/javascript/parse-js-blank-1.2.16.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "http://$USERNAME.kd.io/Teamwork/parse-js-blank/index.html"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/Teamwork/parse-js-blank/index.html"
+    }
+  }
+}

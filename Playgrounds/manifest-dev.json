@@ -46,5 +46,11 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/TogetherJS.json",
     "description": "TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website.",
     "icon": "https://teamworkcontent.s3.amazonaws.com/covers/togetherjs.png"
+  },
+  {
+    "name": "Parse",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/Parse.json",
+    "description": "Parse is the cloud app platform for iOS, Android, JavaScript, Windows 8, Windows Phone 8, and OS X.",
+    "icon": "http://s23.postimg.org/mlzb1o0vb/parse.jpg"
   }
 ]
