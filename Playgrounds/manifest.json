@@ -46,5 +46,11 @@
     "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/TogetherJS.json",
     "description": "TogetherJS is a free, open source JavaScript library by Mozilla that adds collaboration features and tools to your website.",
     "icon": "https://teamworkcontent.s3.amazonaws.com/covers/togetherjs.png"
+  },
+  {
+    "name": "RequireJS",
+    "manifestUrl": "https://raw.github.com/koding/Teamwork/master/Playgrounds/RequireJS.json",
+    "description": "RequireJS is a JavaScript file and module loader.",
+    "icon": "http://static.redroach.es/koding-teamwork-playground-requirejs/requirejs.png"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "name": "RequireJS",
+  "version": "0.0.0",
+  "content": {
+    "type": "zip",
+    "url": "http://static.redroach.es/koding-teamwork-playground-requirejs/RequireJS.zip"
+  },
+  "run": {
+    "handler": "preview",
+    "command": "https://$USERNAME.kd.io/Teamwork/RequireJS/index.html"
+  },
+  "initialState": {
+    "preview": {
+      "url": "https://$USERNAME.kd.io/Teamwork/RequireJS/index.html"
+    },
+    "editor": {
+      "files": [ "./index.html" ]
+    }
+  }
+}
